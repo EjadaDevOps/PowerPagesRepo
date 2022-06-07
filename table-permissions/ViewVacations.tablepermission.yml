@@ -1,0 +1,14 @@
+adx_append: false
+adx_appendto: false
+adx_contactrelationship: cr798_VacationRequests_AssignedTo_Contact
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: cr798_vacationrequests
+adx_entityname: ViewVacations
+adx_entitypermission_webrole:
+- 9933ac01-11e0-ec11-bb3c-000d3ab4fb7f
+- 9a33ac01-11e0-ec11-bb3c-000d3ab4fb7f
+adx_entitypermissionid: ce08e08d-eee0-ec11-bb3c-000d3ab4fb7f
+adx_read: true
+adx_scope: 756150001
+adx_write: false

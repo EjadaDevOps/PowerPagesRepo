@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: cr798_employees
+adx_entityname: EmployeesLookup
+adx_entitypermission_webrole:
+- 9933ac01-11e0-ec11-bb3c-000d3ab4fb7f
+- 9a33ac01-11e0-ec11-bb3c-000d3ab4fb7f
+adx_entitypermissionid: 9287e80c-96e1-ec11-bb3c-000d3ab4fb7f
+adx_read: true
+adx_scope: 756150000
+adx_write: true

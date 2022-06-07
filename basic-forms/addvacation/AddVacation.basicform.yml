@@ -1,0 +1,43 @@
+adx_appendquerystring: false
+adx_associatecurrentportaluser: false
+adx_attachfile: false
+adx_attachfileallowmultiple: false
+adx_attachfilerequired: false
+adx_attachfilerestrictaccept: false
+adx_autogeneratesteps: false
+adx_captcharequired: false
+adx_entityformid: 9c5806a0-afe1-ec11-bb3c-000d3ab4fb7f
+adx_entityname: cr798_vacationrequests
+adx_entitypermissionsenabled: true
+adx_forceallfieldsrequired: false
+adx_formname: AddVacation
+adx_geolocation_displaymap: false
+adx_geolocation_enabled: false
+adx_hideformonsuccess: true
+adx_name: AddVacation
+adx_populatereferenceentitylookupfield: false
+adx_portaluserlookupattributeisactivityparty: false
+adx_recommendedfieldsrequired: false
+adx_recordsourceallowcreateonnull: false
+adx_redirecturlappendentityidquerystring: false
+adx_referenceentityshowreadonlyform: false
+adx_referencequerystringisprimarykey: true
+adx_renderwebresourcesinline: false
+adx_setentityreference: false
+adx_showcaptchaforauthenticatedusers: false
+adx_showownerfields: false
+adx_showunsupportedfields: false
+adx_successmessage: >-
+  [
+
+    {
+
+      "LCID": 9,
+
+      "Value": "Vacation Request has been submitted successfully."
+
+    }
+
+  ]
+adx_tooltipenabled: false
+adx_validationsummarylinksenabled: true
